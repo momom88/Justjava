@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+    
+    <!--Thank you for the order summary. {CHAR LIMIT OFF} -->
+    <string name="thank_you">Thank you!</string>
+    
+    <string name="total">Total :</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="quantity">Quantity</string>
+
+    <string name="quantity2">Quantity: </string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="ORDER">order</string>
+
+    <!--
+     Chocolate topping for the order summary. It will be shown in the format of
+     "Add chocolate? true" or "Add chocolate? false". [CHAR LIMIT=NONE]
+   -->
+    <string name="aadchocolate">Add Chocolate? </string>
+
+    <!--
+      Quantity of coffee cups for the order summary. It will be shown in the format of
+      "Quantity: 2", where 2 is the number of cups ordered. [CHAR LIMIT=NONE]
+    -->
+    <string name="addwhippedcream">Add Whipped Cream? </string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="whippedcream">Whipped Cream</string>
+
+
+</resources>
